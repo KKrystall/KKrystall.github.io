@@ -5,3 +5,11 @@
  * @date    2022-05-01 18:31:08
  * @version $Id$
  */
+a {
+	font-size: 27px;
+	font-weight: bold;
+	color: skyblue;
+	display: flex;
+	justify-content: center; /*居中对齐*/
+	align-content: center; /*垂直对齐*/
+}
